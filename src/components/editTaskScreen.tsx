@@ -1,4 +1,4 @@
-import AppBar from "./appbar";
+import AppBar from "./appBar";
 import StatusSelect from "./statusSelect";
 import { useId, useState } from "react";
 import type { Status, Task } from "../types";
