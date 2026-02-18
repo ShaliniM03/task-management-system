@@ -1,4 +1,4 @@
-import AppBar from "./appbar";
+import AppBar from "./appBar";
 import { useId, useState } from "react";
 
 type Props = {
