@@ -1,6 +1,6 @@
 import { useMemo, useState } from "react";
 import "./styles.css";
-import AppBar from "./components/appbar";
+import AppBar from "./components/appBar";
 import SearchBox from "./components/searchBox";
 import TaskSection from "./components/taskSelection";
 import FloatingActionButton from "./components/floatingActionButton";
